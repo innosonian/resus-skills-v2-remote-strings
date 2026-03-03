@@ -165,5 +165,17 @@
     "metric.too_few": "Too Few",
     "metric.too_many": "Too Many",
     "result.overall_score": "Overall Score",
-    "training.cycle_format": "Cycle %d"
+    "training.cycle_format": "Cycle %d",
+
+    "manikin.sys_error_title": "Connected Manikin Error",
+    "manikin.sys_error_message": "The connected manikin has the following issue. Please try again with a different manikin.\n\nIssue: %@",
+    "manikin.sys_warn_title": "Caution",
+    "manikin.sys_warn_battery_low": "The connected manikin's battery is low.",
+    "manikin.sys_info_external_power": "The connected manikin's external power has been disconnected.",
+    "manikin.sys_error_adapter": "Adapter Error",
+    "manikin.sys_error_ir_sensor": "IR Sensor Error",
+    "manikin.sys_error_chest_board": "Chest Board Connection Error",
+    "manikin.sys_error_hand_imu": "Hand Position / IMU Error",
+    "manikin.sys_error_magnet_sensor": "Magnet Sensor Error",
+    "manikin.sys_error_brain_board": "Brain Board / Connector Error"
 }
