@@ -72,6 +72,7 @@
     "training.rate": "Rate",
     "training.damaged": "Damaged",
 
+    "two.rescuer.role.switch": "Switching Role",
     "result.calculation_failed": "Calculation Failed",
     "result.calculation_failed_server": "We apologize for the inconvenience.\nPlease contact your manager for assistance.",
     "result.calculation_failed_network": "Please check your internet connection and try again.\nIf the issue persists, restart the training.",
@@ -150,8 +151,8 @@
     "training.cpr_with_aed": "CPR With AED Trainer",
     "training.start_compression": "Start Compressions",
     "training.start_ventilation": "Start Ventilations",
-    "training.partner_compression": "Partner is Compressing",
-    "training.partner_ventilation": "Partner is Ventilating",
+    "training.partner_compression": "Waiting for your turn",
+    "training.partner_ventilation": "Waiting for your turn",
 
     "metric.label_ventilation_volume": "Ventilation Volume",
     "metric.label_ventilation_rate": "Ventilation Rate",
