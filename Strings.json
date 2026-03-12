@@ -72,7 +72,7 @@
     "training.rate": "Rate",
     "training.damaged": "Damaged",
 
-    "two.rescuer.role.switch": "Switching Role",
+    "two.rescuer.role.switch": "Switching Roles",
     "result.calculation_failed": "Calculation Failed",
     "result.calculation_failed_server": "We apologize for the inconvenience.\nPlease contact your manager for assistance.",
     "result.calculation_failed_network": "Please check your internet connection and try again.\nIf the issue persists, restart the training.",
@@ -149,8 +149,8 @@
     "training.guideline_3cycles_aed": "Perform 3 cycles of CPR with AED-T on the manikin",
     "training.guideline_subtitle": "Your first passing score will be recorded in your transcript.",
     "training.cpr_with_aed": "CPR With AED Trainer",
-    "training.start_compression": "Start Compressions",
-    "training.start_ventilation": "Start Ventilations",
+    "training.start_compression": "Start compressions",
+    "training.start_ventilation": "Start ventilations",
     "training.partner_compression": "Waiting for your turn",
     "training.partner_ventilation": "Waiting for your turn",
 
