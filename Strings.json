@@ -43,7 +43,8 @@
     "device.disconnected_training_cancelled": "The device has been disconnected.\nThe training session has been cancelled.",
     "device.unexpected_disconnect_cancelled": "The device was disconnected unexpectedly.\nThe training session has been cancelled.",
     "device.failed_connect_cancelled": "Failed to connect to the device.\nThe training session has been cancelled.",
-
+    "device.voice.guide": "🔉Voice Guide",
+    
     "manikin.adult": "Adult",
     "manikin.child": "Child",
     "manikin.infant": "Infant",
@@ -180,5 +181,9 @@
     "manikin.sys_error_chest_board": "Chest Board Connection Error",
     "manikin.sys_error_hand_imu": "Hand Position / IMU Error",
     "manikin.sys_error_magnet_sensor": "Magnet Sensor Error",
-    "manikin.sys_error_brain_board": "Brain Board / Connector Error"
+    "manikin.sys_error_brain_board": "Brain Board / Connector Error",
+ 
+    "navigation.back": "Back",
+
+    "web.invalid_url": "Unable to open the page. The URL is invalid."
 }
