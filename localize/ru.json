@@ -637,7 +637,7 @@
   "Training cannot proceed due to power supply issue.Please check the power cable and adapter,replace it if needed, and then restart the manikin.": "Обучение не может быть продолжено из-за проблемы с электропитанием. Проверьте сетевой кабель и адаптер, при необходимости замените их, затем перезапустите манекен.",
   "Training progress status": "Статус хода обучения",
   "Try Now": "Попробуйте сейчас",
-  "Try again": "Попробовать снова",
+  "Try Again": "Попробовать снова",
   "Try to minimize hands off time (CCF).": "Старайтесь свести к минимуму время без компрессий (CCF).",
   "Try to re-calculation": "Попробуйте пересчитать",
   "Turn on the AED Trainer": "Включите AED Trainer",

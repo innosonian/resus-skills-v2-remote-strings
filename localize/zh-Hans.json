@@ -637,7 +637,7 @@
   "Training cannot proceed due to power supply issue.Please check the power cable and adapter,replace it if needed, and then restart the manikin.": "电源供应异常将无法进行培训。\n请检查电源线和适配器连接状态，\n或更换新适配器后，重启模拟人。",
   "Training progress status": "培训进度",
   "Try Now": "体验",
-  "Try again": "重做",
+  "Try Again": "重做",
   "Try to minimize hands off time (CCF).": "请尽量减少胸外按压中断时间。",
   "Try to re-calculation": "重新计算",
   "Turn on the AED Trainer": "请打开AED训练器。",

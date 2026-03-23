@@ -634,7 +634,7 @@
   "Training cannot proceed due to power supply issue.Please check the power cable and adapter,replace it if needed, and then restart the manikin.": "El entrenamiento no puede continuar debido a un problema con la fuente de alimentación. Por favor, revise el cable y el adaptador de corriente, reemplácelos si es necesario y luego reinicie el maniquí.",
   "Training progress status": "Estado del progreso de la capacitación",
   "Try Now": "Pruébelo ahora",
-  "Try again": "Inténtalo de nuevo",
+  "Try Again": "Inténtalo de nuevo",
   "Try to minimize hands off time (CCF).": "Intenta minimizar el tiempo de inactividad (CCF).",
   "Try to re-calculation": "Intenta recalcular",
   "Turn on the AED Trainer": "Enciende el Entrenador DEA",

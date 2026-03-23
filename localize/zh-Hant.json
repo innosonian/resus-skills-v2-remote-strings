@@ -637,7 +637,7 @@
   "Training cannot proceed due to power supply issue.Please check the power cable and adapter,replace it if needed, and then restart the manikin.": "若電源供應異常，將無法進行訓練。\n請確認電源線與變壓器連接狀態，\n或更換新的變壓器後重新開啟人體模型。",
   "Training progress status": "訓練進度",
   "Try Now": "體驗",
-  "Try again": "再試一次",
+  "Try Again": "再試一次",
   "Try to minimize hands off time (CCF).": "請盡量減少胸外按壓的中斷。",
   "Try to re-calculation": "重新計算",
   "Turn on the AED Trainer": "請開啟AED訓練器",

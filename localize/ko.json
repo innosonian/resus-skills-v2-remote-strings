@@ -637,7 +637,7 @@
   "Training cannot proceed due to power supply issue.Please check the power cable and adapter,replace it if needed, and then restart the manikin.": "전원이 정상적으로 공급되지 않으면 교육을 진행할 수 없어요.\n전원선과 어댑터 연결 상태를 확인하거나\n새로운 어댑터로 교체한 후 마네킹을 껐다 켜주세요.",
   "Training progress status": "교육 진행 현황",
   "Try Now": "체험하기",
-  "Try again": "다시 하기",
+  "Try Again": "다시 하기",
   "Try to minimize hands off time (CCF).": "가슴 압박 중단을 최소화 하십시오.",
   "Try to re-calculation": "다시 계산하기",
   "Turn on the AED Trainer": "AED 트레이너를 켜주세요",

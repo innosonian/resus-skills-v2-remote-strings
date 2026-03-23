@@ -637,7 +637,7 @@
   "Training cannot proceed due to power supply issue.Please check the power cable and adapter,replace it if needed, and then restart the manikin.": "電源が正常に供給されないと、トレーニングを進めることができません。\n電源コードとアダプターの接続状態を確認するか、\n新しいアダプターに交換した後、マネキンの電源を入れ直してください。",
   "Training progress status": "トレーニング進行状況",
   "Try Now": "体験する",
-  "Try again": "やり直す",
+  "Try Again": "やり直す",
   "Try to minimize hands off time (CCF).": "胸骨圧迫は絶え間なく行ってください。",
   "Try to re-calculation": "再計算をお試しください",
   "Turn on the AED Trainer": "AEDトレーナーの電源を入れてください",

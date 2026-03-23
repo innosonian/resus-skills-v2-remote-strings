@@ -637,7 +637,7 @@
   "Training cannot proceed due to power supply issue.Please check the power cable and adapter,replace it if needed, and then restart the manikin.": "Veuillez vérifier le câble d'alimentation et l'adaptateur, les remplacer si nécessaire, puis redémarrer le mannequin.",
   "Training progress status": "État d'avancement de la formation",
   "Try Now": "Essayer",
-  "Try again": "Réessayer",
+  "Try Again": "Réessayer",
   "Try to minimize hands off time (CCF).": "Essayez de réduire au minimum le temps d'inactivité (CCF).",
   "Try to re-calculation": "Réessayer le calcul",
   "Turn on the AED Trainer": "Allumer le formateur DAE",

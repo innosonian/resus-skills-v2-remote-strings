@@ -637,7 +637,7 @@
   "Training cannot proceed due to power supply issue.Please check the power cable and adapter,replace it if needed, and then restart the manikin.": "L'addestramento non può procedere a causa di un problema di alimentazione. Controlla il cavo di alimentazione e l'adattatore, sostituiscili se necessario e riavvia il manichino.",
   "Training progress status": "Stato di avanzamento della formazione",
   "Try Now": "Prova ora",
-  "Try again": "Riprova",
+  "Try Again": "Riprova",
   "Try to minimize hands off time (CCF).": "Cercare di ridurre al minimo il tempo di funzionamento senza l'intervento dell'operatore (CCF).",
   "Try to re-calculation": "Riprova il calcolo",
   "Turn on the AED Trainer": "Accendi l’AED Trainer",

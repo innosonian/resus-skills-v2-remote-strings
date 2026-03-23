@@ -634,7 +634,7 @@
   "Training cannot proceed due to power supply issue.Please check the power cable and adapter,replace it if needed, and then restart the manikin.": "Überprüfen bitte das Netzkabel und den Adapter, tauschen sie diese gegebenenfalls aus und starten Sie die Simulationspuppe neu.",
   "Training progress status": "Stand der Ausbildung",
   "Try Now": "Jetzt ausprobieren",
-  "Try again": "Erneut versuchen",
+  "Try Again": "Erneut versuchen",
   "Try to minimize hands off time (CCF).": "Versuchen die Leerlaufzeiten zu minimieren. (CCF).",
   "Try to re-calculation": "Try to re-calculation",
   "Turn on the AED Trainer": "AED-Trainer einschalten",
