@@ -100,7 +100,7 @@
 
     "metric.ventilation_volume": "Ventilation\nVolume",
     "metric.ventilation_rate": "Ventilation\nRate",
-    "metric.ventilation_speed": "Ventilation\nSpeed",
+    "metric.ventilation_pressure": "Ventilation\nPressure",
     "metric.ventilation_count": "Ventilation\nCount",
     "metric.compression_depth": "Compression\nDepth",
     "metric.compression_release": "Compression\nRelease",
@@ -157,7 +157,7 @@
 
     "metric.label_ventilation_volume": "Ventilation Volume",
     "metric.label_ventilation_rate": "Ventilation Rate",
-    "metric.label_ventilation_speed": "Ventilation Speed",
+    "metric.label_ventilation_pressure": "Ventilation Pressure",
     "metric.label_compression_depth": "Compression Depth",
     "metric.label_compression_release": "Compression Release",
     "metric.label_compression_rate": "Compression Rate",
@@ -251,5 +251,7 @@
     "login.error.oauth_server_error": "OAuth server error: %@ %@",
     "login.error.missing_field": "A required field is missing: %@",
     "login.error.user_cancelled": "The user cancelled the login.",
-    "login.error.invalid_callback": "Invalid callback URL."
+    "login.error.invalid_callback": "Invalid callback URL.",
+    "auto_logout.warning_title": "Auto Logout",
+    "auto_logout.warning_message": "You will be logged out in 1 minute due to inactivity."
 }
