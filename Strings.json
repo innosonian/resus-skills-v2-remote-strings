@@ -7,6 +7,7 @@
     "general.exit": "Exit",
     "general.error": "Error",
     "general.debug_prefix": "[Debug]",
+    "general.skip" "Skip",
     "general.certification_provided_by": "Certification Provided By",
 
     "bluetooth.turned_off": "Bluetooth is turned off.\nPlease enable Bluetooth in Settings.",
@@ -30,7 +31,6 @@
     "device.connection_timed_out": "Connection timed out",
     "device.connection_to_timed_out": "Connection to %@ timed out",
     "device.connectable_devices": "Connectable Devices",
-    "device.connected_count": "(%d connected)",
     "device.model_device_id": "Model + Device ID",
     "device.firmware": "Firmware",
     "device.searching": "Searching for devices",
@@ -70,6 +70,7 @@
     "training.too_little": "Too Little",
     "training.position": "Position",
     "training.rate": "Rate",
+    "training.depth_and_rate": "Depth & Rate",
     "training.damaged": "Damaged",
 
     "two.rescuer.role.switch": "Switching Roles",
