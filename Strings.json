@@ -7,8 +7,12 @@
     "general.exit": "Exit",
     "general.error": "Error",
     "general.debug_prefix": "[Debug]",
-    "general.skip" "Skip",
+    "general.skip": "Skip",
     "general.certification_provided_by": "Certification Provided By",
+
+    "main.certification_completed_title": "Congratulations!",
+    "main.certification_completed_subtitle": "You've successfully completed\nthe %@ course.\nContinue to the next course to keep going.",
+    "main.certification_completed_all_subtitle": "You’ve successfully completed\nthe %@ course.\nYou’ve finished all courses\nand can now logout or close this session.",
 
     "bluetooth.turned_off": "Bluetooth is turned off.\nPlease enable Bluetooth in Settings.",
     "bluetooth.permission_denied": "Bluetooth permission is not granted.\nPlease allow access in Settings.",
@@ -172,6 +176,7 @@
     "metric.too_many": "Too Many",
     "result.overall_score": "Overall Score",
     "training.cycle_format": "Cycle %d",
+    "training.two.rescuer.switch.to": "Swich to",
 
     "manikin.sys_error_title": "Connected Manikin Error",
     "manikin.sys_error_message": "The connected manikin has the following issue. Please try again with a different manikin.\n\nIssue: %@",
