@@ -77,7 +77,6 @@
     "training.depth_and_rate": "Depth & Rate",
     "training.damaged": "Damaged",
 
-    "two.rescuer.role.switch": "Switching Roles",
     "result.calculation_failed": "Calculation Failed",
     "result.calculation_failed_server": "We apologize for the inconvenience.\nPlease contact your manager for assistance.",
     "result.calculation_failed_network": "Please check your internet connection and try again.\nIf the issue persists, restart the training.",
@@ -176,7 +175,7 @@
     "metric.too_many": "Too Many",
     "result.overall_score": "Overall Score",
     "training.cycle_format": "Cycle %d",
-    "training.two.rescuer.switch.to": "Swich to",
+    "training.two.rescuer.switch.to": "Switch to",
 
     "manikin.sys_error_title": "Connected Manikin Error",
     "manikin.sys_error_message": "The connected manikin has the following issue. Please try again with a different manikin.\n\nIssue: %@",
